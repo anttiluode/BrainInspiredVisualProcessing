@@ -1,5 +1,9 @@
 # Frequency-Domain Holographic Video Processing
 
+Inspired in part by this paper by Baker and Cariani: 
+
+https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1540532/full
+
 A collection of experimental applications exploring frequency-domain approaches to real-time video processing and pattern recognition, inspired by holographic field theories and neural oscillation research.
 
 Applications
