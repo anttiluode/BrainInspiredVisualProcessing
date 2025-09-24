@@ -1,5 +1,9 @@
 # Frequency-Domain Holographic Video Processing
 
+Video where I explore these codes: (sorry I tend to take these down) 
+
+[https://youtu.be/b9trcTw2EfMi](https://youtu.be/b9trcTw2EfM)
+
 Inspired in part by this paper by Baker and Cariani: 
 
 https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1540532/full
