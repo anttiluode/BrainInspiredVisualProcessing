@@ -12,7 +12,7 @@ A collection of experimental applications exploring frequency-domain approaches 
 
 Applications
 
-# 1. Matrix10_Fixed.py
+# 1. TheMatrix.py
 
 An enhanced version of the Matrix8-EQ system with graphical frequency filtering capabilities. Combines Stable Diffusion with holographic field evolution for real-time video transformation.
 
@@ -82,7 +82,7 @@ CUDA-compatible PyTorch installation
 
 Run any of the applications directly:
 
-bashpython Matrix10_Fixed.py
+bashpython TheMatrix.py
 
 python gated_afc.py
 
