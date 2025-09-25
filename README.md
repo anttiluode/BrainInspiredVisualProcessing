@@ -2,6 +2,17 @@
 
 EDIT: 
 
+The moire patterns - in the end of the day are born out of fft (fast fourier transform 
+/ inverse fft): 
+
+https://youtu.be/X88hy4pLSMU
+
+I added the sigh_image file.. If you up the high frequencies, you will see that it will show 
+64x64 grid when you just look at high frequencies as that is the finest pattern the fft can 
+find from the 4096 (64x64 tensor that the systems use) tensor. 
+
+EDIT: 
+
 Added more realistic brain like system per claude opus - ping circuit 6
 
 EDIT: 
