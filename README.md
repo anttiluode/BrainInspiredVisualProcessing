@@ -1,5 +1,12 @@
 # Frequency-Domain Holographic Video Processing
 
+EDIT: 
+
+Added the spiking holographic field system 4 per this video: 
+
+https://youtu.be/Qcfq-01TKq4
+
+
 Video where I explore these codes: (sorry I tend to take these down) 
 
 [https://youtu.be/b9trcTw2EfMi](https://youtu.be/b9trcTw2EfM)
