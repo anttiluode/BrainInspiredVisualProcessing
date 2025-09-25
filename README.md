@@ -2,6 +2,10 @@
 
 EDIT: 
 
+Added more realistic brain like system per claude opus - ping circuit 6
+
+EDIT: 
+
 Added the spiking holographic field system 4 per this video: 
 
 https://youtu.be/Qcfq-01TKq4
