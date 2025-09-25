@@ -7,9 +7,11 @@ The moire patterns - in the end of the day are born out of fft (fast fourier tra
 
 https://youtu.be/X88hy4pLSMU
 
-I added the sigh_image file.. If you up the high frequencies, you will see that it will show 
+I added the sigh_image.py file.. If you up the high frequencies, you will see that it will show 
 64x64 grid when you just look at high frequencies as that is the finest pattern the fft can 
-find from the 4096 (64x64 tensor that the systems use) tensor. 
+find from the 4096 (64x64 tensor that the systems use) tensor. No matter what the image. 
+Meanwhile the large features are just the large features of the input webcam image which 
+surprisingly are the large features of the image. 
 
 EDIT: 
 
